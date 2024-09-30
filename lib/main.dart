@@ -85,7 +85,7 @@ class HomeActivity extends StatelessWidget {
             ),
             ListTile(
               leading:const Icon(Icons.person_2),
-              title: const Text("SUMAYA"),
+              title: const Text("SUMIYA"),
               onTap: (){
                 MySnackbar("my name is sumiya", context);
               },
